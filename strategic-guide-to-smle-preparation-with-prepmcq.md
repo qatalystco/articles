@@ -25,7 +25,7 @@ meta_keywords: >-
   personalized learning
 ---
 
-# Mastering the SMLE: A Strategic Guide to Exam Preparation with PrepMCQ
+# Mastering the SMLE - A Strategic Guide to Exam Preparation with PrepMCQ
 
 The **Saudi Medical Licensing Exam (SMLE)** is one of the most challenging milestones for medical graduates and practicing doctors seeking licensure in Saudi Arabia. With its vast syllabus covering clinical knowledge, applied reasoning, and patient-centered care, the SMLE can feel overwhelming without a clear strategy.  
 
