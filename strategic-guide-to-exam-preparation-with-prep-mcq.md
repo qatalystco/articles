@@ -1,5 +1,5 @@
 ---
-title: Mastering the SMLE: A Strategic Guide to Exam Preparation with PrepMCQ
+title: Mastering the SMLE - A Strategic Guide to Exam Preparation with PrepMCQ
 author: Dr Farhan
 excerpt: >-
   Learn how to strategically prepare for the Saudi Medical Licensing Exam (SMLE)
