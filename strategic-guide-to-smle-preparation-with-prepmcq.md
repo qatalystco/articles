@@ -31,9 +31,9 @@ But here’s the good news: with the right tools and structured approach, you ca
 
 This article will walk you through a **comprehensive 6-step strategy** for SMLE preparation—integrating core study techniques with **PrepMCQ features**—so you can study smarter, build confidence, and ace the exam on your first attempt.
 
-## Step 1: Understand the SMLE Exam Blueprint
-
   
+
+## Step 1: Understand the SMLE Exam Blueprint
 
 Before diving into questions and revision, you need a clear picture of the exam’s structure:
 
