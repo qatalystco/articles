@@ -1,6 +1,6 @@
 ---
 title: Mastering the SMLE - A Strategic Guide to Exam Preparation with PrepMCQ
-author: Dr Farhan
+author: Quaynath Alam
 excerpt: >-
   Learn how to strategically prepare for the Saudi Medical Licensing Exam (SMLE)
   using PrepMCQ’s AI-powered tools, adaptive learning, and focused revision
@@ -22,7 +22,7 @@ meta_description: >-
 meta_keywords: >-
   SMLE exam prep, Saudi medical licensing exam, PrepMCQ, AI exam prep,
   personalized learning
-published: true
+published: false
 published_at: '2025-09-22 12:00:00'
 ---
 The **Saudi Medical Licensing Exam (SMLE)** is one of the most challenging milestones for medical graduates and practicing doctors seeking licensure in Saudi Arabia. With its vast syllabus covering clinical knowledge, applied reasoning, and patient-centered care, the SMLE can feel overwhelming without a clear strategy.
@@ -30,8 +30,6 @@ The **Saudi Medical Licensing Exam (SMLE)** is one of the most challenging miles
 But here’s the good news: with the right tools and structured approach, you can transform this daunting exam into a manageable, step-by-step journey. **PrepMCQ.com**, an AI-powered medical exam prep platform, offers exactly the kind of support you need: adaptive practice, smart analytics, personalized learning, and realistic exam simulations.
 
 This article will walk you through a **comprehensive 6-step strategy** for SMLE preparation—integrating core study techniques with **PrepMCQ features**—so you can study smarter, build confidence, and ace the exam on your first attempt.
-
-  
 
 ## Step 1: Understand the SMLE Exam Blueprint
 
