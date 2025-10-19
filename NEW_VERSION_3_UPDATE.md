@@ -26,7 +26,7 @@ meta_description: >-
 meta_keywords: >-
   PrepMCQ v3.0, medical exam prep platform, AI-powered study tools, knowledge
   base, dark mode, mock exams, SMLE prep, NEET-PG prep
-published: false
+published: true
 published_at: '2025-10-15 12:00:00'
 ---
 We're thrilled to announce the launch of **PrepMCQ v3.0** – our most comprehensive update yet! After months of development and incorporating feedback from hundreds of medical students, we've reimagined your exam preparation experience from the ground up.
