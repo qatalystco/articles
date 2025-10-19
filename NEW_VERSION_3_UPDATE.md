@@ -26,18 +26,18 @@ meta_description: >-
 meta_keywords: >-
   PrepMCQ v3.0, medical exam prep platform, AI-powered study tools, knowledge
   base, dark mode, mock exams, SMLE prep, NEET-PG prep
-published: true
+published: false
 published_at: '2025-10-15 12:00:00'
 ---
-# Introducing PrepMCQ v3.0: Your Smartest Study Companion Yet
-
 We're thrilled to announce the launch of **PrepMCQ v3.0** – our most comprehensive update yet! After months of development and incorporating feedback from hundreds of medical students, we've reimagined your exam preparation experience from the ground up.
-
-We're thrilled to announce the launch of PrepMCQ v3.0 – our most comprehensive update yet! After months of development and incorporating feedback from hundreds of medical students, we've reimagined your exam preparation experience from the ground up.
 
 ## What's New in v3.0
 
 ### Completely Redesigned Dashboard
+
+  
+
+![](https://raw.githubusercontent.com/qatalystco/articles/main/images/1760893628303-dashboard.png)
 
 Your dashboard is now smarter, cleaner, and more actionable than ever before.
 
@@ -49,11 +49,13 @@ Track your progress instantly with real-time statistics showing your overall acc
 
 The new "Focus On These First" section uses machine learning to identify your weakest subjects and prioritizes them for you. No more guessing what to study next!
 
-*Example:* If you're scoring 45% in Cardiology, 52% in Pharmacology, and 58% in Pediatrics, the dashboard will automatically recommend you start with Cardiology.
+_Example:_ If you're scoring 45% in Cardiology, 52% in Pharmacology, and 58% in Pediatrics, the dashboard will automatically recommend you start with Cardiology.
 
 **Enhanced Activity Feed**
 
 Stay motivated with a personalized activity stream showing your recent attempts, achievements, and milestones. Celebrate wins and identify patterns in your study behavior at a glance.
+
+##   
 
 ## Knowledge Base: High-Yield Notes at Your Fingertips
 
@@ -63,6 +65,12 @@ The most requested feature is finally here! Introducing the PrepMCQ Knowledge Ba
 
 Curated summaries covering essential medical concepts, mnemonics for complex topics, clinical pearls from experienced doctors, quick reference tables and flowcharts, and evidence-based study tips from top performers.
 
+  
+
+![](https://raw.githubusercontent.com/qatalystco/articles/main/images/1760893660051-knowledge.png)
+
+  
+
 **Smart Reading Features**
 
 Bookmarking and highlighting for easy reference, searchable content across all specialties, downloadable PDF summaries for offline study, and integrated links to related practice questions.
@@ -71,6 +79,8 @@ Bookmarking and highlighting for easy reference, searchable content across all s
 
 Click on "Knowledge Base" in your navigation menu or from the Quick Access section on your dashboard. Search by subject, condition, or keyword to find exactly what you need.
 
+##   
+
 ## Dark Mode Support
 
 Late night study session? We've got you covered! PrepMCQ now supports full dark mode across the entire platform.
@@ -78,6 +88,10 @@ Late night study session? We've got you covered! PrepMCQ now supports full dark 
 **Benefits of Dark Mode**
 
 Reduces eye strain during extended study sessions, easier on battery life for laptop and tablet users, and creates a distraction-free study environment for better focus.
+
+  
+
+![](https://raw.githubusercontent.com/qatalystco/articles/main/images/1760893696164-darkmode.png)
 
 **How to Enable**
 
@@ -105,47 +119,20 @@ v3.0 embraces a clean, minimalist design that puts your data front and center wi
 
 Your performance metrics are now more accurate and actionable. We've refined our algorithms to provide insights into your learning curve, identify knowledge gaps, track improvement over time, and predict your exam readiness score.
 
-**Under the Hood Improvements**
+  
 
-While you may not see these directly, they make your experience better:
+## Most Importantly, Thank You
 
-- 40% faster page load times with optimized database queries
-- Improved server infrastructure for 99.9% uptime
-- Enhanced security with end-to-end encryption for your data
-- Better mobile responsiveness across all devices
-
-## Coming Soon
-
-We're not stopping here! Here's what's on the roadmap:
-
-- Collaborative study groups and peer learning features
-- AI-powered video explanations for complex topics
-- Spaced repetition algorithm customization
-- Integration with popular study planning apps
-- Advanced progress tracking and predictive analytics
-
-## Thank You
-
-This update wouldn't be possible without your continuous feedback and support. Every feature in v3.0 was inspired by real user requests shared by our community. We read every piece of feedback and take it seriously.
+**This update wouldn't be possible without the continuous feedback and support of all our users. Every feature in v3.0 was inspired by real user requests shared by our community. We read every piece of feedback and take it seriously.**
 
 We're committed to building the best medical exam preparation platform in the world, and you're a crucial part of that journey.
 
-## Get Started with v3.0
+**Get Started with v3.0**
 
-All existing users have been automatically upgraded to v3.0. Simply refresh your browser (Ctrl+Shift+R on Windows, Cmd+Shift+R on Mac) to see the new features.
+  
+
+**All existing users have been automatically upgraded to v3.0.** Simply refresh your browser (Ctrl+Shift+R on Windows, Cmd+Shift+R on Mac) to see the new features.
 
 **New to PrepMCQ?** Start your free trial today and experience the future of medical exam preparation.
 
-## 🐛 Found a Bug? Have Feedback?
-
-We're constantly improving PrepMCQ. If you encounter any issues or have suggestions:
-
-- **Report bugs:** support@prepMCQ.com
-- **Share feedback:** feedback@prepMCQ.com
-- **Join our community:** discord.gg/prepMCQ
-
----
-
-**Happy Studying!**
-
-*The PrepMCQ Team*
+[**https://prepmcq.com/register**](https://prepmcq.com/register)
