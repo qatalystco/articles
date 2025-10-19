@@ -16,7 +16,7 @@ tags:
   - dashboard
   - knowledge-base
 featured_image: >-
-  https://res.cloudinary.com/dh2mghhah/image/upload/v1760517725/articles/v3_v3upa1.png
+  https://res.cloudinary.com/dh2mghhah/image/upload/v1760881517/assets/update_afnyj6.png
 meta_title: 'PrepMCQ v3.0 Release | New Dashboard, Knowledge Base & Dark Mode'
 meta_description: >-
   Discover what's new in PrepMCQ v3.0: completely redesigned dashboard with
@@ -26,7 +26,7 @@ meta_description: >-
 meta_keywords: >-
   PrepMCQ v3.0, medical exam prep platform, AI-powered study tools, knowledge
   base, dark mode, mock exams, SMLE prep, NEET-PG prep
-published: true
+published: false
 published_at: '2025-10-15 12:00:00'
 ---
 # Introducing PrepMCQ v3.0: Your Smartest Study Companion Yet
