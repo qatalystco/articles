@@ -1,5 +1,5 @@
 ---
-title: 'Introducing PrepMCQ v3.0: Your Smartest Study Companion Yet'
+title: 'New Post'
 author: Dr Farhan
 excerpt: >-
   We're thrilled to announce the launch of PrepMCQ v3.0 – our most comprehensive
