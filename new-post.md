@@ -1,12 +1,7 @@
 ---
-title: 'New Post'
+title: New Post
 author: Dr Farhan
-excerpt: >-
-  We're thrilled to announce the launch of PrepMCQ v3.0 – our most comprehensive
-  update yet! After months of development and incorporating feedback from
-  hundreds of doctors, we've reimagined your exam preparation experience from
-  the ground up with a redesigned dashboard, new Knowledge Base, dark mode, and
-  much more.
+excerpt: This is an excerpt
 category: Product Updates
 tags:
   - PrepMCQ
@@ -26,7 +21,7 @@ meta_description: >-
 meta_keywords: >-
   PrepMCQ v3.0, medical exam prep platform, AI-powered study tools, knowledge
   base, dark mode, mock exams, SMLE prep, NEET-PG prep
-published: true
+published: false
 published_at: '2025-10-15 12:00:00'
 ---
 We're thrilled to announce the launch of **PrepMCQ v3.0** – our most comprehensive update yet! After months of development and incorporating feedback from hundreds of medical students, we've reimagined your exam preparation experience from the ground up.
@@ -34,8 +29,6 @@ We're thrilled to announce the launch of **PrepMCQ v3.0** – our most comprehen
 ## What's New in v3.0
 
 ### Completely Redesigned Dashboard
-
-  
 
 ![](https://raw.githubusercontent.com/qatalystco/articles/main/images/1760893628303-dashboard.png)
 
@@ -65,11 +58,7 @@ The most requested feature is finally here! Introducing the PrepMCQ Knowledge Ba
 
 Curated summaries covering essential medical concepts, mnemonics for complex topics, clinical pearls from experienced doctors, quick reference tables and flowcharts, and evidence-based study tips from top performers.
 
-  
-
 ![](https://raw.githubusercontent.com/qatalystco/articles/main/images/1760893660051-knowledge.png)
-
-  
 
 **Smart Reading Features**
 
@@ -88,8 +77,6 @@ Late night study session? We've got you covered! PrepMCQ now supports full dark 
 **Benefits of Dark Mode**
 
 Reduces eye strain during extended study sessions, easier on battery life for laptop and tablet users, and creates a distraction-free study environment for better focus.
-
-  
 
 ![](https://raw.githubusercontent.com/qatalystco/articles/main/images/1760893696164-darkmode.png)
 
@@ -119,8 +106,6 @@ v3.0 embraces a clean, minimalist design that puts your data front and center wi
 
 Your performance metrics are now more accurate and actionable. We've refined our algorithms to provide insights into your learning curve, identify knowledge gaps, track improvement over time, and predict your exam readiness score.
 
-  
-
 ## Most Importantly, Thank You
 
 **This update wouldn't be possible without the continuous feedback and support of all our users. Every feature in v3.0 was inspired by real user requests shared by our community. We read every piece of feedback and take it seriously.**
@@ -128,8 +113,6 @@ Your performance metrics are now more accurate and actionable. We've refined our
 We're committed to building the best medical exam preparation platform in the world, and you're a crucial part of that journey.
 
 **Get Started with v3.0**
-
-  
 
 **All existing users have been automatically upgraded to v3.0.** Simply refresh your browser (Ctrl+Shift+R on Windows, Cmd+Shift+R on Mac) to see the new features.
 
