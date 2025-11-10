@@ -20,7 +20,7 @@ meta_description: >-
 meta_keywords: >-
   GP in Dubai, Dubai Health Authority, DHA licensing, become doctor in Dubai, general practitioner UAE, DHA-GP exam, medical license Dubai, practice medicine Dubai, GP job Dubai
 published: true
-published_at: '2025-11-10 16:00:00'
+published_at: '2025-11-06 16:00:00'
 ---
 
 Dubai has emerged as one of the world's most attractive destinations for medical professionals. With state-of-the-art healthcare facilities, tax-free income, multicultural work environment, and excellent career growth opportunities, becoming a General Practitioner in Dubai is a dream for thousands of doctors worldwide.
