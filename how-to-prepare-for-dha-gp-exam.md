@@ -20,7 +20,7 @@ meta_description: >-
 meta_keywords: >-
   DHA-GP exam, Dubai Health Authority, DHA exam preparation, general practitioner Dubai, DHA licensing exam, DHA syllabus, medical licensing Dubai, DHA study guide, DHA mock tests
 published: true
-published_at: '2025-11-10 12:00:00'
+published_at: '2025-11-07 12:00:00'
 ---
 
 If you're a medical graduate aspiring to practice as a General Practitioner in Dubai, passing the **DHA-GP (Dubai Health Authority General Practitioner) exam** is your gateway to a rewarding career in one of the world's most dynamic healthcare systems. With proper preparation and the right strategy, you can clear this exam on your first attempt.
