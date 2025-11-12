@@ -46,8 +46,6 @@ Most DHA exam prep providers operate using a business model that hasn't changed 
 
 These static materials typically include:
 
-  
-
 **The fundamental problem?** You have no way to know if these questions reflect current exam content, if the answers are accurate, or if you're actually ready to pass.
 
 ### Why PDF Question Banks Fall Short
@@ -55,8 +53,6 @@ These static materials typically include:
 **1\. No Performance Analytics**
 
 With PDF materials, you're flying blind. You can't track:
-
-  
 
 **2\. Passive Learning, Poor Retention**
 
@@ -96,8 +92,6 @@ Some providers sell "complete DHA question banks" for $50-100. These are often p
 
 Legitimate providers clearly state:
 
-  
-
 If a provider is vague about what you're buying, walk away.
 
 **🚩 Payment Through Unofficial Channels**
@@ -111,8 +105,6 @@ Confidence in your product means offering potential customers a way to evaluate 
 ### The Hidden Costs of Cheap PDF Banks
 
 Even when PDF materials aren't outright scams, they often represent poor value:
-
-  
 
 A failed exam attempt costs far more than investing in quality preparation from the start.
 
@@ -132,25 +124,15 @@ Before we compare specific providers, let's establish criteria for evaluating DH
 
 Let's compare the most common options candidates consider for DHA-GP preparation:
 
-  
-
 ### Key Takeaways from the Comparison
 
 **Traditional PDF Banks:**
 
-  
-
 **Online Video Courses:**
-
-  
 
 **Free Resources:**
 
-  
-
 **PrepMCQ Platform:**
-
-  
 
 ## Why PrepMCQ is Different: The Intelligent Alternative
 
@@ -162,15 +144,11 @@ Let's compare the most common options candidates consider for DHA-GP preparation
 
 Unlike static PDFs or generic question banks, PrepMCQ uses artificial intelligence to:
 
-  
-
 Access this through your [personalized dashboard](/dashboard) that shows exactly what to focus on today.
 
 **2\. The PrepMCQ Cycle System**
 
 Our proprietary [PrepMCQ Cycle](/features) ensures you see questions at scientifically-optimized intervals:
-
-  
 
 This spaced repetition approach increases retention by 40-60% compared to cramming or random practice.
 
@@ -178,31 +156,21 @@ This spaced repetition approach increases retention by 40-60% compared to crammi
 
 Take unlimited [mock exams](/mock-exams) that replicate actual DHA-GP conditions:
 
-  
-
 **4\. Targeted Subject Practice**
 
 Use [subject exams](/subject-exams) to strengthen specific areas:
-
-  
 
 **5\. Comprehensive Knowledge Base**
 
 Access high-yield medical notes in our [Knowledge Base](/knowledge-base):
 
-  
-
 **6\. Advanced Analytics Dashboard**
 
 Your [analytics dashboard](/analytics) provides insights that paper materials never could:
 
-  
-
 **7\. Truly Personalized Study Plans**
 
 Get a [custom study plan](/study-plan) based on:
-
-  
 
 ## Real Success Stories: What Candidates Say
 
@@ -218,11 +186,7 @@ Let's break down the real costs:
 
 ### Cost of PDF-Based Preparation:
 
-  
-
 ### Cost of PrepMCQ Preparation:
-
-  
 
 The choice is clear: investing in proper preparation from day one costs far less than failing and retaking the exam.
 
@@ -307,7 +271,5 @@ Join thousands of doctors who chose intelligent, effective DHA exam preparation:
 No credit card required. No commitments. Just smart preparation that works.
 
 Have questions about PrepMCQ or DHA exam preparation? [Contact our team](/contact) – we're here to help you succeed.
-
-  
 
 _Preparing for other licensing exams? PrepMCQ also offers comprehensive preparation for [SMLE](/exams/smle), [HAAD](/exams/haad), [MOH UAE](/exams/moh), and [OMSB](/exams/omsb). Explore our [complete platform features](/features) today._
