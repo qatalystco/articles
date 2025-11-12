@@ -27,7 +27,7 @@ meta_keywords: >-
   DHA-GP exam questions, DHA question bank, DHA exam practice, authentic DHA
   questions, DHA preparation materials, DHA MCQs, avoid DHA exam scams, best DHA
   prep course
-published: false
+published: true
 published_at: '2025-11-04 14:00:00'
 ---
 If you're preparing for the **DHA-GP (Dubai Health Authority General Practitioner) exam**, your biggest challenge isn't just mastering medical knowledge – it's finding **authentic, high-quality practice questions** that actually reflect what you'll see on exam day.
