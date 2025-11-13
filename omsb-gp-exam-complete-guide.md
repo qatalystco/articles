@@ -19,7 +19,7 @@ tags:
   - OMSB-GP
   - Oman-healthcare
 featured_image: >-
-  https://res.cloudinary.com/dh2mghhah/image/upload/v1762972159/assets/pmcq_blog_4_hriigr.jpg
+  https://res.cloudinary.com/dh2mghhah/image/upload/v1763016709/assets/pmcq_blog_oman.jpg
 meta_title: 'OMSB-GP Exam Guide 2025 | Complete Syllabus, Requirements & Preparation'
 meta_description: >-
   Complete OMSB-GP exam guide for general practitioners. Learn exam format,
@@ -29,7 +29,7 @@ meta_keywords: >-
   OMSB exam, OMSB-GP, Oman medical licensing, general practitioner Oman, OMSB
   preparation, medical license Oman, OMSB syllabus, practice medicine Oman, OMSB
   registration
-published: true
+published: false
 published_at: '2025-11-08 18:00:00'
 ---
 Oman's healthcare sector has experienced remarkable growth over the past decade, creating unprecedented opportunities for international medical professionals. As the country continues to expand its healthcare infrastructure, the demand for qualified General Practitioners has never been higher.
@@ -86,8 +86,6 @@ Understanding the exam format is crucial for effective preparation. The [OMSB ex
 
 OMSB questions are scenario-based and emphasize:
 
-  
-
 The difficulty level is comparable to other Gulf licensing exams like [DHA (Dubai)](/exams/dha) and [HAAD (Abu Dhabi)](/exams/haad), but with some regional variations in clinical approach and endemic diseases.
 
 ## Complete OMSB-GP Exam Syllabus
@@ -100,35 +98,19 @@ Internal Medicine constitutes the largest portion of the exam. Key topics includ
 
 **Cardiovascular System:**
 
-  
-
 **Respiratory Medicine:**
-
-  
 
 **Gastroenterology:**
 
-  
-
 **Endocrinology:**
-
-  
 
 **Nephrology:**
 
-  
-
 **Hematology:**
-
-  
 
 **Rheumatology:**
 
-  
-
 **Infectious Diseases:**
-
-  
 
 ### 2\. Pediatrics (15-20%)
 
@@ -136,27 +118,15 @@ Essential pediatric topics for general practice:
 
 **Growth and Development:**
 
-  
-
 **Neonatology:**
-
-  
 
 **Pediatric Infectious Diseases:**
 
-  
-
 **Respiratory Conditions:**
-
-  
 
 **Gastrointestinal Issues:**
 
-  
-
 **Pediatric Emergencies:**
-
-  
 
 ### 3\. Obstetrics and Gynecology (15-20%)
 
@@ -164,23 +134,13 @@ Women's health across the lifespan:
 
 **Antenatal Care:**
 
-  
-
 **Labor and Delivery:**
-
-  
 
 **Postnatal Care:**
 
-  
-
 **Gynecology:**
 
-  
-
 **Menopause:**
-
-  
 
 ### 4\. Surgery (10-15%)
 
@@ -188,23 +148,13 @@ General surgical principles and common conditions:
 
 **Acute Abdomen:**
 
-  
-
 **Hernias:**
-
-  
 
 **Trauma Management:**
 
-  
-
 **Common Surgical Conditions:**
 
-  
-
 **Pre and Post-Operative Care:**
-
-  
 
 ### 5\. Emergency Medicine (8-12%)
 
@@ -212,23 +162,13 @@ Critical care and emergency management:
 
 **Cardiovascular Emergencies:**
 
-  
-
 **Respiratory Emergencies:**
-
-  
 
 **Neurological Emergencies:**
 
-  
-
 **Toxicology:**
 
-  
-
 **Shock Management:**
-
-  
 
 ### 6\. Psychiatry (5-10%)
 
@@ -236,19 +176,11 @@ Mental health in primary care:
 
 **Common Psychiatric Disorders:**
 
-  
-
 **Psychotic Disorders:**
-
-  
 
 **Substance Abuse:**
 
-  
-
 **Emergency Psychiatry:**
-
-  
 
 ### 7\. Dermatology (5-8%)
 
@@ -256,15 +188,9 @@ Common skin conditions:
 
 **Infections:**
 
-  
-
 **Inflammatory Conditions:**
 
-  
-
 **Skin Malignancies:**
-
-  
 
 ### 8\. Ophthalmology and ENT (5-8%)
 
@@ -272,23 +198,15 @@ Common eye and ENT conditions:
 
 **Ophthalmology:**
 
-  
-
 **ENT:**
-
-  
 
 ### 9\. Preventive Medicine and Public Health (3-5%)
 
 Community health principles:
 
-  
-
 ### 10\. Medical Ethics and Professionalism (2-3%)
 
 Professional practice standards:
-
-  
 
 ## OMSB Eligibility Requirements
 
@@ -298,21 +216,13 @@ Before preparing for the exam, ensure you meet all eligibility criteria:
 
 **Primary Medical Qualification:**
 
-  
-
 **Internship:**
-
-  
 
 ### Professional Requirements
 
 **Clinical Experience:**
 
-  
-
 **Registration:**
-
-  
 
 ### Document Requirements
 
@@ -324,8 +234,6 @@ Complete documentation includes:
 
 All documents must be attested following this sequence:
 
-  
-
 This process typically takes 6-8 weeks and costs $300-$800 depending on your country.
 
 ## OMSB Application and Registration Process
@@ -334,33 +242,19 @@ This process typically takes 6-8 weeks and costs $300-$800 depending on your cou
 
 Before applying to OMSB, complete Primary Source Verification through DataFlow:
 
-  
-
 ### Step 2: OMSB Online Application
 
 Once DataFlow is complete:
 
-  
-
 ### Step 3: Application Review
-
-  
 
 ### Step 4: Eligibility Approval
 
-  
-
 ### Step 5: Exam Registration
-
-  
 
 ### Step 6: Take the Exam
 
-  
-
 ### Step 7: Results and Licensing
-
-  
 
 ## OMSB-GP Exam Preparation Strategy
 
@@ -372,19 +266,13 @@ Preparing for the OMSB exam requires a systematic, focused approach. Here's a pr
 
 Start with a diagnostic assessment to identify strengths and weaknesses. Use [PrepMCQ's dashboard](/dashboard) to:
 
-  
-
 **Create Your Study Timeline:**
 
 Most candidates need 3-6 months of preparation:
 
-  
-
 **Gather Resources:**
 
 Essential materials include:
-
-  
 
 ### Phase 2: Subject-Wise Learning (Weeks 3-12)
 
@@ -392,15 +280,9 @@ Essential materials include:
 
 Allocate study time proportionally:
 
-  
-
 **Active Learning Approach:**
 
-  
-
 **Daily Study Routine:**
-
-  
 
 ### Phase 3: Intensive Practice (Weeks 13-20)
 
@@ -408,19 +290,13 @@ Allocate study time proportionally:
 
 This phase focuses on extensive MCQ practice:
 
-  
-
 **Use Adaptive Learning:**
 
 [PrepMCQ's AI-powered system](/features) automatically:
 
-  
-
 **Track Performance Metrics:**
 
 Monitor through [analytics dashboard](/analytics):
-
-  
 
 ### Phase 4: Mock Exams and Final Revision (Weeks 21-24)
 
@@ -428,19 +304,11 @@ Monitor through [analytics dashboard](/analytics):
 
 Take unlimited [mock exams](/mock-exams) replicating OMSB format:
 
-  
-
 **Mock Exam Schedule:**
-
-  
 
 **Target Scores:**
 
-  
-
 **Final Week Preparation:**
-
-  
 
 ## Best Resources for OMSB-GP Preparation
 
@@ -448,19 +316,11 @@ Take unlimited [mock exams](/mock-exams) replicating OMSB format:
 
 **Internal Medicine:**
 
-  
-
 **Pediatrics:**
-
-  
 
 **Obstetrics & Gynecology:**
 
-  
-
 **Surgery:**
-
-  
 
 ### Online Question Banks
 
@@ -490,25 +350,15 @@ On exam day, you have **120 minutes for 100 questions** – an average of **72 s
 
 **First Pass (45-50 minutes):**
 
-  
-
 **Second Pass (40-45 minutes):**
 
-  
-
 **Final Review (20-30 minutes):**
-
-  
 
 ### Question-Solving Techniques
 
 **Clinical Scenario Analysis:**
 
-  
-
 **Elimination Strategy:**
-
-  
 
 ## Licensing and Employment in Oman
 
@@ -518,17 +368,11 @@ On exam day, you have **120 minutes for 100 questions** – an average of **72 s
 
 You need a job offer from an Oman Ministry of Health licensed facility:
 
-  
-
 **Step 2: Employer License Application**
 
 Your employer will:
 
-  
-
 **Step 3: License Issuance**
-
-  
 
 ### Career Opportunities for GPs in Oman
 
@@ -536,25 +380,15 @@ Your employer will:
 
 **Government Healthcare:**
 
-  
-
 **Private Healthcare:**
-
-  
 
 **Salary Expectations:**
 
 **Entry-Level GPs (0-3 years in Oman):**
 
-  
-
 **Experienced GPs (3-7 years in Oman):**
 
-  
-
 **Senior GPs (7+ years in Oman):**
-
-  
 
 **Standard Benefits Package:**
 
@@ -564,17 +398,11 @@ Your employer will:
 
 **Quality of Life:**
 
-  
-
 **Healthcare System:**
-
-  
 
 ## OMSB vs Other Gulf Licensing Exams
 
 Understanding how OMSB compares to other Gulf exams helps if you're considering multiple licensing options:
-
-  
 
 **Strategic Tip:** Many doctors prepare for and take multiple Gulf licensing exams simultaneously. [PrepMCQ](/features) covers all major Gulf exams, allowing you to maximize your job opportunities across the region.
 
@@ -584,31 +412,21 @@ Understanding how OMSB compares to other Gulf exams helps if you're considering 
 
 **Solution:**
 
-  
-
 ### Challenge 2: Balancing Work and Study
 
 **Solution:**
-
-  
 
 ### Challenge 3: Subject Matter Overload
 
 **Solution:**
 
-  
-
 ### Challenge 4: Insufficient Mock Exam Practice
 
 **Solution:**
 
-  
-
 ### Challenge 5: Exam Anxiety
 
 **Solution:**
-
-  
 
 ## Your OMSB Success Action Plan
 
@@ -677,7 +495,5 @@ Don't leave your success to chance. Prepare with the most effective, intelligent
 Begin your journey to a rewarding medical career in Oman. No credit card required for trial.
 
 Have questions about OMSB or need personalized guidance? [Contact our support team](/contact) – we're here to help you succeed.
-
-  
 
 _Also preparing for other Gulf licensing exams? Explore our comprehensive guides for [DHA-GP preparation](/articles/how-to-prepare-for-dha-gp-exam), [becoming a GP in Dubai](/articles/how-to-become-gp-in-dubai), and [finding authentic exam questions](/articles/where-to-find-real-dha-gp-exam-questions). Check all our [platform features](/features) and [exam coverage](/exams/smle)._
