@@ -29,7 +29,7 @@ meta_keywords: >-
   OMSB exam, OMSB-GP, Oman medical licensing, general practitioner Oman, OMSB
   preparation, medical license Oman, OMSB syllabus, practice medicine Oman, OMSB
   registration
-published: false
+published: true
 published_at: '2025-11-08 18:00:00'
 ---
 Oman's healthcare sector has experienced remarkable growth over the past decade, creating unprecedented opportunities for international medical professionals. As the country continues to expand its healthcare infrastructure, the demand for qualified General Practitioners has never been higher.
