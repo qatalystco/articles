@@ -18,7 +18,7 @@ tags:
   - healthcare-UAE
   - general-practice
 featured_image: >-
-  https://res.cloudinary.com/dh2mghhah/image/upload/v1762972158/assets/pmcq_blog_5_vdptws.jpg
+  https://res.cloudinary.com/dh2mghhah/image/upload/v1762972159/assets/pmcq_blog_1_uqux2c.jpg
 meta_title: How to Become a GP in Dubai 2025 | Complete DHA Licensing Process
 meta_description: >-
   Complete step-by-step guide to becoming a General Practitioner in Dubai. Learn
@@ -29,7 +29,7 @@ meta_keywords: >-
   GP in Dubai, Dubai Health Authority, DHA licensing, become doctor in Dubai,
   general practitioner UAE, DHA-GP exam, medical license Dubai, practice
   medicine Dubai, GP job Dubai
-published: true
+published: false
 published_at: '2025-11-06 16:00:00'
 ---
 Dubai has emerged as one of the world's most attractive destinations for medical professionals. With state-of-the-art healthcare facilities, tax-free income, multicultural work environment, and excellent career growth opportunities, becoming a General Practitioner in Dubai is a dream for thousands of doctors worldwide.
@@ -60,47 +60,29 @@ The Dubai Health Authority has specific requirements that all GP candidates must
 
 Your medical degree must be from a university recognized by the DHA. This includes:
 
-  
-
 **Check your university:** Visit the DHA website or contact their licensing department to confirm your medical school is recognized.
 
 **2\. Internship Completion**
-
-  
 
 **3\. Work Experience Requirements**
 
 After completing your internship, you need:
 
-  
-
 **4\. Good Standing Certificate**
-
-  
 
 **5\. English Language Proficiency**
 
 If your medical education was not in English, you may need:
 
-  
-
 ### Special Considerations
 
 **For Indian Medical Graduates:**
 
-  
-
 **For Pakistani Medical Graduates:**
-
-  
 
 **For Egyptian Medical Graduates:**
 
-  
-
 **For Other Countries:**
-
-  
 
 ## Phase 2: Document Collection & Preparation
 
@@ -130,23 +112,13 @@ All educational and professional documents must be attested following this chain
 
 **Step 1: University/Institution Attestation**
 
-  
-
 **Step 2: Ministry of Education Attestation**
-
-  
 
 **Step 3: Ministry of Foreign Affairs Attestation**
 
-  
-
 **Step 4: UAE Embassy Attestation**
 
-  
-
 **Step 5: UAE Ministry of Foreign Affairs**
-
-  
 
 **Attestation Timeline:** 4-8 weeks **Attestation Cost:** $300-$800 depending on country and number of documents
 
@@ -162,19 +134,11 @@ For graduates from most countries, DataFlow is the official PSV partner:
 
 **Step 1: Create DataFlow Account**
 
-  
-
 **Step 2: Submit Application**
-
-  
 
 **Step 3: Institution Verification**
 
-  
-
 **Step 4: Receive DataFlow Report**
-
-  
 
 **DataFlow Timeline:** 8-12 weeks **DataFlow Cost:** $200-400
 
@@ -182,11 +146,7 @@ For graduates from most countries, DataFlow is the official PSV partner:
 
 **ECFMG (For US and Canadian Graduates):**
 
-  
-
 **Direct University Verification:**
-
-  
 
 ## Phase 4: DHA-GP Exam Preparation
 
@@ -196,11 +156,7 @@ While your documents are being verified, use this time wisely to prepare for the
 
 **Exam Format:**
 
-  
-
 **Exam Content Distribution:**
-
-  
 
 For comprehensive exam preparation guidance, read our detailed article: [How to Prepare for DHA-GP Exam](/articles/how-to-prepare-for-dha-gp-exam)
 
@@ -210,27 +166,17 @@ For comprehensive exam preparation guidance, read our detailed article: [How to 
 
 Most candidates need 3-6 months of focused preparation. Your timeline depends on:
 
-  
-
 **Recommended Study Plan:**
 
 **Months 1-2:** Subject-wise comprehensive study
 
-  
-
 **Months 3-4:** Intensive question practice
 
-  
-
 **Months 5-6:** Mock exams and revision
-
-  
 
 **Best Preparation Resources:**
 
 The most effective way to prepare is using a comprehensive, adaptive question bank like [PrepMCQ](/features) which offers:
-
-  
 
 Avoid expensive PDF materials that don't provide performance tracking. Learn more: [Where to Find Real DHA-GP Exam Questions](/articles/where-to-find-real-dha-gp-exam-questions)
 
@@ -242,41 +188,23 @@ Once your DataFlow/PSV is complete and you feel prepared, it's time to register 
 
 **Step 1: Create DHA Sheryan Account**
 
-  
-
 **Step 2: Complete Online Application**
-
-  
 
 **Step 3: Upload Documents**
 
-  
-
 **Step 4: Pay Application Fee**
-
-  
 
 **Step 5: Application Review**
 
-  
-
 **Step 6: Receive Eligibility Letter**
 
-  
-
 **Step 7: Schedule Prometric Exam**
-
-  
 
 ### Exam Day Guidelines
 
 **What to Bring:**
 
-  
-
 **What NOT to Bring:**
-
-  
 
 **Exam Day Tips:**
 
@@ -286,15 +214,9 @@ Once your DataFlow/PSV is complete and you feel prepared, it's time to register 
 
 **Immediate Results:**
 
-  
-
 **If You Pass:**
 
-  
-
 **If You Don't Pass:**
-
-  
 
 ## Phase 6: License Application & Issuance
 
@@ -306,35 +228,21 @@ After passing the DHA exam, you can now apply for your full medical license.
 
 You need a job offer from a DHA-licensed healthcare facility in Dubai. The employer will:
 
-  
-
 **Finding Employment:**
-
-  
 
 **Step 2: Complete License Application in Sheryan**
 
 Your employer's PRO (Public Relations Officer) will:
 
-  
-
 **Step 3: Submit Additional Documents**
 
 You may need to provide:
 
-  
-
 **Step 4: DHA License Issuance**
-
-  
 
 ### Licensing Fees Breakdown
 
-  
-
 **Additional Costs:**
-
-  
 
 **Total Investment:** $3,000-$5,000 approximately
 
@@ -346,51 +254,29 @@ Congratulations! You're now a licensed General Practitioner in Dubai. Here's wha
 
 **1\. Government Hospitals & Primary Health Centers**
 
-  
-
 **2\. Private Hospitals**
-
-  
 
 **3\. Private Clinics & Polyclinics**
 
-  
-
 **4\. Corporate Healthcare**
-
-  
 
 ### Expected Salary Range for GPs in Dubai
 
 **Entry-Level (0-3 years in UAE):**
 
-  
-
 **Mid-Level (3-7 years in UAE):**
-
-  
 
 **Senior-Level (7+ years in UAE):**
 
-  
-
 **Additional Benefits Typically Include:**
-
-  
 
 ### Maintaining Your DHA License
 
 **Annual License Renewal:**
 
-  
-
 **Continuing Medical Education (CME):**
 
-  
-
 **License Inspection:**
-
-  
 
 ## Common Challenges & How to Overcome Them
 
@@ -398,31 +284,21 @@ Congratulations! You're now a licensed General Practitioner in Dubai. Here's wha
 
 **Solution:**
 
-  
-
 ### Challenge 2: DataFlow Verification Takes Long
 
 **Solution:**
-
-  
 
 ### Challenge 3: Failing the DHA Exam
 
 **Solution:**
 
-  
-
 ### Challenge 4: Finding Employment Before Licensing
 
 **Solution:**
 
-  
-
 ### Challenge 5: Cost of the Entire Process
 
 **Solution:**
-
-  
 
 ## Alternative Pathways: Other Emirates
 
@@ -508,12 +384,8 @@ Don't wait to begin your exam preparation. The DHA-GP exam is the most critical 
 
 Join thousands of successfully licensed doctors who prepared with our AI-powered platform featuring:
 
-  
-
 [**Start Your Free Trial Today**](/register) and take the first step toward your Dubai medical career.
 
 Need guidance on your specific situation? [Contact our team](/contact) – we're here to help you succeed.
-
-  
 
 _Interested in licensing for other regions? Explore our comprehensive exam preparation for [SMLE (Saudi Arabia)](/exams/smle), [OMSB (Oman)](/exams/omsb), and [other UAE authorities](/exams/haad). Learn more about all our [platform features](/features)._
