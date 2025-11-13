@@ -27,7 +27,7 @@ meta_description: >-
 meta_keywords: >-
   SMLE preparation, best SMLE platform, SMLE exam prep, Saudi medical licensing,
   SCFHS exam, SMLE question bank, SMLE online course, PrepMCQ SMLE
-published: false
+published: true
 published_at: '2025-11-05 20:00:00'
 ---
 Preparing for the **SMLE (Saudi Medical Licensing Exam)** is one of the most critical steps in your journey to practicing medicine in Saudi Arabia. With the Saudi Commission for Health Specialties (SCFHS) setting rigorous standards, choosing the right preparation platform can make the difference between passing on your first attempt or facing costly retakes and career delays.
