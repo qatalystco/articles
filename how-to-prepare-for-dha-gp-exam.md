@@ -27,7 +27,7 @@ meta_keywords: >-
   DHA-GP exam, Dubai Health Authority, DHA exam preparation, general
   practitioner Dubai, DHA licensing exam, DHA syllabus, medical licensing Dubai,
   DHA study guide, DHA mock tests
-published: true
+published: false
 published_at: '2025-11-07 12:00:00'
 ---
 If you're a medical graduate aspiring to practice as a General Practitioner in Dubai, passing the **DHA-GP (Dubai Health Authority General Practitioner) exam** is your gateway to a rewarding career in one of the world's most dynamic healthcare systems. With proper preparation and the right strategy, you can clear this exam on your first attempt.
@@ -62,61 +62,41 @@ Understanding the syllabus is the foundation of effective preparation. The DHA-G
 
 Internal Medicine forms the largest component of the DHA-GP exam. Key topics include:
 
-  
-
 ### 2\. **Pediatrics (15-20%)**
 
 Pediatrics questions focus on common childhood conditions:
-
-  
 
 ### 3\. **Obstetrics and Gynecology (15-20%)**
 
 This section covers women's health across the lifespan:
 
-  
-
 ### 4\. **Surgery (10-15%)**
 
 Surgical topics focus on general surgery principles:
-
-  
 
 ### 5\. **Psychiatry (5-10%)**
 
 Mental health topics relevant to general practice:
 
-  
-
 ### 6\. **Dermatology (5-8%)**
 
 Common skin conditions encountered in primary care:
-
-  
 
 ### 7\. **Ophthalmology and ENT (5-8%)**
 
 Eye and ENT conditions in general practice:
 
-  
-
 ### 8\. **Emergency Medicine (5-8%)**
 
 Critical care and emergency management:
-
-  
 
 ### 9\. **Preventive Medicine and Public Health (3-5%)**
 
 Community health and prevention:
 
-  
-
 ### 10\. **Ethics and Medical Jurisprudence (2-3%)**
 
 Professional practice standards:
-
-  
 
 ## Step-by-Step DHA-GP Preparation Strategy
 
@@ -130,13 +110,9 @@ Start by taking a diagnostic test on [PrepMCQ's dashboard](/dashboard) to identi
 
 Most candidates need 3-6 months of dedicated preparation depending on their medical background. Create a personalized [study plan](/study-plan) that allocates time based on:
 
-  
-
 **3\. Gather Quality Study Resources**
 
 Essential resources include:
-
-  
 
 ### Phase 2: Subject-Wise Learning (Weeks 3-16)
 
@@ -146,19 +122,13 @@ Given that Internal Medicine constitutes nearly 30% of the exam, prioritize this
 
 **Active Learning Techniques**
 
-  
-
 **Daily Study Routine**
 
 A productive daily schedule might look like:
 
-  
-
 **Track Your Progress**
 
 Use [PrepMCQ's analytics dashboard](/analytics) to monitor your performance across subjects. Pay special attention to:
-
-  
 
 ### Phase 3: Practice and Revision (Weeks 17-20)
 
@@ -176,8 +146,6 @@ This phase is all about applying what you've learned:
 
 Take full-length [mock exams](/mock-exams) under real exam conditions:
 
-  
-
 Analyze each mock test thoroughly. Review every incorrect answer and understand the underlying concept.
 
 ### Phase 4: Final Revision (Weeks 21-24)
@@ -186,11 +154,7 @@ Analyze each mock test thoroughly. Review every incorrect answer and understand 
 
 Focus on the most frequently tested topics:
 
-  
-
 **Rapid Recall Techniques**
-
-  
 
 **Avoid New Topics**
 
@@ -202,19 +166,11 @@ The last two weeks before your exam should be purely revision. Don't start new t
 
 **Internal Medicine**
 
-  
-
 **Pediatrics**
-
-  
 
 **Obstetrics & Gynecology**
 
-  
-
 **Surgery**
-
-  
 
 ### Online Question Banks
 
@@ -222,13 +178,9 @@ The last two weeks before your exam should be purely revision. Don't start new t
 
 [PrepMCQ](/) offers specialized DHA-GP preparation with:
 
-  
-
 The platform's [PrepMCQ Cycle System](/features) ensures you encounter questions at optimal intervals for maximum retention.
 
 ### Clinical Guidelines
-
-  
 
 ## Time Management Tips for DHA-GP Exam
 
@@ -236,11 +188,7 @@ On exam day, you have 165 minutes for 150 questions – roughly 66 seconds per q
 
 **During the Exam:**
 
-  
-
 **Question-Solving Strategy:**
-
-  
 
 ## Common Mistakes to Avoid
 
@@ -274,19 +222,11 @@ As your exam approaches, follow this checklist:
 
 **7 Days Before:**
 
-  
-
 **3 Days Before:**
-
-  
 
 **1 Day Before:**
 
-  
-
 **Exam Day:**
-
-  
 
 ## Your Path to DHA-GP Success Starts Here
 
@@ -294,15 +234,11 @@ Preparing for the DHA-GP exam requires dedication, smart planning, and consisten
 
 The key differentiators between those who pass and those who don't are:
 
-  
-
 [PrepMCQ](/features) is designed specifically to help medical professionals like you achieve licensing success. Our AI-powered platform adapts to your learning pace, focuses on your weak areas, and provides the exact practice you need to excel.
 
 **Ready to Start Your DHA-GP Preparation?**
 
 Join thousands of doctors who have successfully cleared their licensing exams with PrepMCQ. Get access to:
-
-  
 
 [**Start Your Free Trial Today**](/register) and take the first step toward your Dubai medical career.
 
