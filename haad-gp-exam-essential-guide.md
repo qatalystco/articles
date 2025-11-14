@@ -197,21 +197,6 @@ Most candidates need **3-6 months** of focused preparation. Here's an efficient 
 - Take final mock exam for confidence
 - Rest well before exam day
 
-## HAAD vs DHA vs Other Gulf Exams
-
-Understanding how HAAD compares helps if you're considering multiple licensing options:
-
-| Feature | HAAD (DOH) | DHA (Dubai) | OMSB (Oman) |
-|---------|------------|-------------|-------------|
-| **Questions** | 150 MCQs | 150 MCQs | 100 MCQs |
-| **Duration** | 165 min | 165 min | 120 min |
-| **Passing Score** | 60% | 60% | 60% |
-| **Difficulty** | Moderate-High | Moderate-High | Moderate |
-| **Exam Fee** | AED 1,000 | AED 800 | OMR 100 |
-| **Avg GP Salary** | AED 18,000-30,000 | AED 15,000-28,000 | OMR 1,200-2,500 |
-| **Living Cost** | Very High | Very High | Lower |
-
-**Strategic Tip:** Many doctors prepare for multiple exams simultaneously. [PrepMCQ](/features) covers all major Gulf licensing exams, allowing you to maximize opportunities.
 
 ## Best Resources for HAAD Preparation
 
