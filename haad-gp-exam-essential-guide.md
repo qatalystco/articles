@@ -19,7 +19,7 @@ meta_description: >-
 meta_keywords: >-
   HAAD exam, HAAD-GP, Abu Dhabi medical license, DOH Abu Dhabi, general practitioner Abu Dhabi, HAAD preparation, Abu Dhabi licensing exam
 published: true
-published_at: '2025-11-11 10:00:00'
+published_at: '2025-11-11 10:11:00'
 ---
 
 Abu Dhabi, the capital of the United Arab Emirates, offers exceptional career opportunities for General Practitioners with competitive salaries, world-class healthcare facilities, and a high standard of living. To practice medicine in Abu Dhabi, you must pass the **HAAD-GP licensing exam** (now administered by the Department of Health - DOH).
