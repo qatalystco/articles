@@ -154,30 +154,6 @@ Before we compare specific providers, let's establish criteria for evaluating DH
 
 Let's compare the most common options candidates consider for DHA-GP preparation:
 
-| Feature | Traditional PDF Banks | Online Courses | PrepMCQ | Free Resources |
-|---------|----------------------|----------------|---------|----------------|
-| **Price** | $200-$500 (one-time) | $300-$800+ | $49-$149/mo | Free |
-| **Question Count** | 500-1,000 static | Varies (500-2,000) | 5,000+ adaptive | 100-500 scattered |
-| **Content Updates** | ❌ None | ⚠️ Occasional | ✅ Regular (monthly) | ❌ Outdated |
-| **Performance Analytics** | ❌ None | ⚠️ Basic | ✅ Comprehensive AI-powered | ❌ None |
-| **Adaptive Learning** | ❌ No | ❌ No | ✅ Yes (AI-driven) | ❌ No |
-| **Mock Exams** | ⚠️ Static PDF | ⚠️ Limited attempts | ✅ Unlimited realistic | ⚠️ Rare |
-| **Mobile Access** | ❌ PDF only | ⚠️ Limited | ✅ Full native support | ⚠️ Limited |
-| **Detailed Explanations** | ⚠️ Brief | ✅ Detailed | ✅ Comprehensive + references | ⚠️ Minimal |
-| **Subject-Wise Practice** | ⚠️ Manual sorting | ✅ Yes | ✅ Yes + smart recommendations | ❌ Random |
-| **Progress Tracking** | ❌ Manual | ⚠️ Basic | ✅ Advanced with predictions | ❌ None |
-| **Study Plan Creation** | ❌ DIY | ⚠️ Generic | ✅ Personalized AI-generated | ❌ None |
-| **Spaced Repetition** | ❌ No | ❌ No | ✅ Built-in algorithm | ❌ No |
-| **Time-Based Practice** | ❌ Manual timing | ⚠️ Limited | ✅ Fully simulated | ❌ No |
-| **Weak Area Identification** | ❌ Manual review | ⚠️ Basic reports | ✅ Automatic AI analysis | ❌ None |
-| **Customer Support** | ❌ None | ⚠️ Email only | ✅ Chat + WhatsApp | ❌ None |
-| **Content Quality** | ⚠️ Unverified | ⚠️ Varies | ✅ Expert-reviewed | ⚠️ Questionable |
-| **Exam Pattern Alignment** | ⚠️ Unknown | ⚠️ Approximate | ✅ Regularly updated | ❌ Poor |
-| **Money-Back Guarantee** | ❌ Rare | ⚠️ Restrictive | ✅ 14-day full refund | N/A |
-| **Free Trial** | ❌ No | ❌ Rarely | ✅ Yes | ✅ Yes (but limited) |
-
-### Key Takeaways from the Comparison
-
 **Traditional PDF Banks:**
 - One-time cost seems attractive
 - Zero features beyond static questions
